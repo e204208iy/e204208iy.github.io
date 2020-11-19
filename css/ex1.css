@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color:  gray;
+}
+table {
+    background-color: #bde9ba; 
+}
+h2{
+    color: white;
+    background-color:  darkgray;
+}
+body{
+    background-image:  url(../images/siro.jpeg);
+    background-size: cover;
+    background-repeat: repeat-y
+    
+}
+ol{
+    background-image:  url(../images/ww.png);
+    background-size: cover;
+    background-repeat: repeat-y
+    opacity:0.1;
+}
