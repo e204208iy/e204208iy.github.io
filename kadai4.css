@@ -1,0 +1,23 @@
+body{
+    background-color:floralwhite
+}
+h1#a{
+    background-color:midnightblue;
+    color: white;
+    text-align: center;
+}
+h1#s{
+    background-color:black;
+    color: yellow;
+    text-align: center;
+}
+h2#i{
+    text-align: center;
+    color: saddlebrown;
+    background-color:burlywood
+}
+h2#o{
+    text-align: center;
+    color: greenyellow;
+    background-color:darkolivegreen
+}
