@@ -1,0 +1,83 @@
+div.title{
+    width:1000px;
+    height: 40px;
+    background-color: darkcyan;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    padding: 5px 0px 0px 10px;
+}
+div.fast{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+    width: 1000px;
+    margin-bottom: 20px;
+}   
+div.second{
+    display: inline-block;
+    vertical-align : top;
+    vertical-align: bottom;
+    background-color:yellow;
+    width: 250px;
+    height: 320px;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right: 50px;
+}
+div.menu1{
+    font-size: 55px;
+    width: 250px;
+    height:  100px;
+    margin-bottom: 10px;
+    background-color: orange;
+}
+div.menu2{
+    font-size: 55px;
+    width: 250px;
+    height:  100px;
+    margin-bottom: 10px;
+    background-color: orange;
+}
+div.menu3{
+    font-size: 55px;
+    width: 250px;
+    height:  100px;
+    background-color: orange;
+   
+}
+div.third{
+    display: inline-block;
+    vertical-align: bottom;
+    vertical-align : top;
+    width: 700px;
+    height: 320px;
+    background-color: violet; 
+}
+div.image{
+    font-size: 30px;
+    width: 700px;
+    height: 300px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+div.disc{
+    color: white;
+    text-align:right;
+    font-size: 13px;
+    height: 20px;
+    background-color:darkviolet;
+    padding-right: 10px;
+    
+}
+div.footer{
+    width:1000px;
+    height: 40px;
+    background-color: aliceblue;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: right;
+    padding-right: 10px;
+    
+}
