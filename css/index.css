@@ -1,0 +1,115 @@
+div.image{
+    text-align: right;
+}
+.btn-img{
+  border-style: none;
+}
+/* マウスを乗せたときの動き */
+.btn-img:hover{
+  opacity: 0.6;
+  transition: 0.8s;
+}
+div.image p{
+    width: 300px;
+    height: px;
+    position: absolute;/*絶対配置*/
+    color: white;/*文字は白に*/
+    border: solid;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    top: 300px;
+    left: 240px;
+}
+div.title{
+    width:1000px;
+    height: 40px;
+    color: white;
+    font-size: 40px;
+    font-family: Century;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+div.images{
+    margin-bottom: 30px;
+}
+div.cont{
+    display: inline-block;
+    color: white;
+    width:1000px;
+    height: 100px;
+    color: black;
+}
+div.first{/*3段目*/
+    width:1000px;
+}
+div.second{
+    display: inline-block;
+    width: 490px;
+    margin-right: 20px;
+}
+div.third{
+    display: inline-block;
+    width: 490px;
+}
+div.firsttitles{
+    width: 1000px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+div.secondtitel{
+    display: inline-block;
+    width: 490px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
+}
+div.thirdtitel{
+    display: inline-block;
+    width: 490px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+div.one{
+    width: 1000px;
+    
+}
+div.two{
+    display: inline-block;
+    text-align: center;
+    width: 1000px;
+    margin-right: 20px;
+}
+div.onetitle{
+    width:1000px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+div.twotitle{
+    width:1000px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+div.futta{
+    width: 1000px;
+    height: 40px;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: right;
+}
+body{
+    background: linear-gradient(180deg,black 30%,yellow 630px,yellow 100px,black 100%);
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
